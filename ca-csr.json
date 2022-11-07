@@ -1,0 +1,19 @@
+{
+    "CN": "ca.example.internal",
+    "hosts": [
+        "ca.example.internal"
+    ],
+    "key": {
+        "algo": "rsa",
+        "size": 4096
+    },
+    "names": [
+        {
+            "C":  "NZ",
+            "L":  "Auckland",
+            "O":  "",
+            "OU": "WWW",
+            "ST": "Auckland"
+        }
+    ]
+}

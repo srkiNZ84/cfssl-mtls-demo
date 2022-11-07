@@ -1,0 +1,19 @@
+{
+    "CN": "db.example.intnernal",
+    "hosts": [
+        "db.example.intnernal"
+    ],
+    "key": {
+        "algo": "rsa",
+        "size": 4096
+    },
+    "names": [
+        {
+            "C":  "NZ",
+            "L":  "Auckland",
+            "O":  "",
+            "OU": "WWW",
+            "ST": "Auckland"
+        }
+    ]
+}
